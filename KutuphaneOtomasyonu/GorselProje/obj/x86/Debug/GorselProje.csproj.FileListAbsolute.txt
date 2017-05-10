@@ -1,0 +1,121 @@
+c:\users\zübeyir\documents\visual studio 2010\Projects\GorselProje\GorselProje\bin\Debug\GorselProje.exe
+c:\users\zübeyir\documents\visual studio 2010\Projects\GorselProje\GorselProje\bin\Debug\GorselProje.pdb
+c:\users\zübeyir\documents\visual studio 2010\Projects\GorselProje\GorselProje\obj\x86\Debug\GorselProje.MainForm.resources
+c:\users\zübeyir\documents\visual studio 2010\Projects\GorselProje\GorselProje\obj\x86\Debug\GorselProje.Properties.Resources.resources
+c:\users\zübeyir\documents\visual studio 2010\Projects\GorselProje\GorselProje\obj\x86\Debug\GorselProje.csproj.GenerateResource.Cache
+c:\users\zübeyir\documents\visual studio 2010\Projects\GorselProje\GorselProje\obj\x86\Debug\GorselProje.exe
+c:\users\zübeyir\documents\visual studio 2010\Projects\GorselProje\GorselProje\obj\x86\Debug\GorselProje.pdb
+C:\Users\Zübeyir\documents\visual studio 2010\Projects\GorselProje\GorselProje\obj\x86\Debug\GorselProje.csprojResolveAssemblyReference.cache
+C:\Users\Zübeyir\documents\visual studio 2010\Projects\GorselProje\GorselProje\obj\x86\Debug\GorselProje.raporlar.resources
+C:\Users\Zübeyir\documents\visual studio 2010\Projects\GorselProje\GorselProje\obj\x86\Debug\GorselProje.ogrenciislemleri.resources
+C:\Users\Zübeyir\documents\visual studio 2010\Projects\GorselProje\GorselProje\obj\x86\Debug\GorselProje.oduncuzat.resources
+C:\Users\Zübeyir\documents\visual studio 2010\Projects\GorselProje\GorselProje\obj\x86\Debug\GorselProje.kitapislemleri.resources
+C:\Users\Zübeyir\documents\visual studio 2010\Projects\GorselProje\GorselProje\obj\x86\Debug\GorselProje.kitaplar.resources
+C:\Users\Zübeyir\documents\visual studio 2010\Projects\GorselProje\GorselProje\obj\x86\Debug\GorselProje.ogrenciler.resources
+C:\Users\Hp\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.exe
+C:\Users\Hp\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.pdb
+C:\Users\Hp\Desktop\GorselProje\GorselProje\GorselProje\bin\Debug\GorselProje.exe
+C:\Users\Hp\Desktop\GorselProje\GorselProje\GorselProje\bin\Debug\GorselProje.pdb
+C:\Users\Hp\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.ogrenciler.resources
+C:\Users\Hp\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.kitapislemleri.resources
+C:\Users\Hp\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.kitaplar.resources
+C:\Users\Hp\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.MainForm.resources
+C:\Users\Hp\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.oduncuzat.resources
+C:\Users\Hp\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.ogrenciislemleri.resources
+C:\Users\Hp\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.Properties.Resources.resources
+C:\Users\Hp\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.raporlar.resources
+C:\Users\Hp\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.csproj.GenerateResource.Cache
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.exe
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.pdb
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\bin\Debug\GorselProje.exe
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\bin\Debug\GorselProje.pdb
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.csprojResolveAssemblyReference.cache
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.ogrenciler.resources
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.kitapislemleri.resources
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.kitaplar.resources
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.MainForm.resources
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.oduncuzat.resources
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.ogrenciislemleri.resources
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.Properties.Resources.resources
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.raporlar.resources
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.csproj.GenerateResource.Cache
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\bin\Debug\ZedGraph.dll
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\bin\Debug\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\bin\Debug\ZedGraph.xml
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\GorselProje\GorselProje\GorselProje\obj\x86\Debug\GorselProje.calldevelopersxd.resources
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.exe
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.pdb
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\bin\Debug\GorselProje.exe
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\bin\Debug\GorselProje.pdb
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\bin\Debug\ZedGraph.dll
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\bin\Debug\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\bin\Debug\ZedGraph.xml
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.csprojResolveAssemblyReference.cache
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.calldevelopersxd.resources
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.ogrenciler.resources
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.kitapislemleri.resources
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.kitaplar.resources
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.MainForm.resources
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.oduncuzat.resources
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.ogrenciislemleri.resources
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.Properties.Resources.resources
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.raporlar.resources
+C:\Users\Zübeyir\Desktop\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.csproj.GenerateResource.Cache
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.exe
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.pdb
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\bin\Debug\GorselProje.exe
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\bin\Debug\GorselProje.pdb
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\bin\Debug\ZedGraph.dll
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\bin\Debug\ZedGraph.resources.dll
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\bin\Debug\ZedGraph.xml
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\bin\Debug\de\ZedGraph.resources.dll
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\bin\Debug\es\ZedGraph.resources.dll
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\bin\Debug\fr\ZedGraph.resources.dll
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\bin\Debug\hu\ZedGraph.resources.dll
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\bin\Debug\it\ZedGraph.resources.dll
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\bin\Debug\ja\ZedGraph.resources.dll
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\bin\Debug\pt\ZedGraph.resources.dll
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\bin\Debug\ru\ZedGraph.resources.dll
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\bin\Debug\sk\ZedGraph.resources.dll
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\bin\Debug\sv\ZedGraph.resources.dll
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\bin\Debug\tr\ZedGraph.resources.dll
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.csprojResolveAssemblyReference.cache
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.calldevelopersxd.resources
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.ogrenciler.resources
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.kitapislemleri.resources
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.kitaplar.resources
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.MainForm.resources
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.oduncuzat.resources
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.ogrenciislemleri.resources
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.Properties.Resources.resources
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.raporlar.resources
+D:\Okul\Universty\Lessons\5.Season\Görsel Programlama\Kutuphanem\GorselProje\GorselProje\obj\x86\Debug\GorselProje.csproj.GenerateResource.Cache

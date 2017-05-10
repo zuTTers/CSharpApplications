@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A20F7DB7-99F7-471C-986B-E1607BF88A51}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GorselProje</RootNamespace>
+    <AssemblyName>GorselProje</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZedGraph">
+      <HintPath>..\..\zedgraph_dll_v515\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ZedGraph.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph.resources">
+      <HintPath>..\..\zedgraph_dll_v515\zedgraph_dll_v515\zedgraph_dll_v5.1.5\tr\ZedGraph.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph.Web">
+      <HintPath>..\..\zedgraph_dll_v515\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ZedGraph.Web.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="calldevelopersxd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calldevelopersxd.Designer.cs">
+      <DependentUpon>calldevelopersxd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ogrenciler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ogrenciler.Designer.cs">
+      <DependentUpon>ogrenciler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kitapislemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kitapislemleri.Designer.cs">
+      <DependentUpon>kitapislemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kitaplar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kitaplar.Designer.cs">
+      <DependentUpon>kitaplar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="oduncuzat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="oduncuzat.Designer.cs">
+      <DependentUpon>oduncuzat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ogrenciislemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ogrenciislemleri.Designer.cs">
+      <DependentUpon>ogrenciislemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="raporlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="raporlar.Designer.cs">
+      <DependentUpon>raporlar.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="calldevelopersxd.resx">
+      <DependentUpon>calldevelopersxd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ogrenciler.resx">
+      <DependentUpon>ogrenciler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitapislemleri.resx">
+      <DependentUpon>kitapislemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitaplar.resx">
+      <DependentUpon>kitaplar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="oduncuzat.resx">
+      <DependentUpon>oduncuzat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ogrenciislemleri.resx">
+      <DependentUpon>ogrenciislemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="raporlar.resx">
+      <DependentUpon>raporlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="images\Community-Library.png" />
+    <Content Include="images\exit.png" />
+    <Content Include="images\Guillendesign-Variations-1-Library.ico" />
+    <Content Include="images\minimize.png" />
+    <Content Include="images\restore.png" />
+    <None Include="Resources\study-icon %2832 x 32%29.png" />
+    <None Include="Resources\study-icon-7852 %2832 x 32%291.jpg" />
+    <None Include="Resources\study-icon-7852 %2832 x 32%29.jpg" />
+    <None Include="Resources\Library %28700 x 400%29.jpg" />
+    <None Include="Resources\Community-Library %28700 x 400%29.png" />
+    <None Include="Resources\kutuphane.png" />
+    <None Include="Resources\Community-Library.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
